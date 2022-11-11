@@ -24,7 +24,7 @@ El administrador del sitio debe recibir notificaciones de cada nueva demanda y c
 
 ## **Modelamiento de Negocio**
 
-![Modelamiento de Negocio](./img/Diagram.png)
+![Modelamiento de Negocio](./img/Diagram1.png)
 
 ## **2. Buyer Persona**
 
